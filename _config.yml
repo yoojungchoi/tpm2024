@@ -1,5 +1,5 @@
 
-baseurl: "https://tpm2024.github.io"
+baseurl: "https://tractable-probabilistic-modeling.github.io/tpm2024/"
 color-scheme: "#1a2090" #the scheme can be any HEX code like "#334279"
 
 sass:
