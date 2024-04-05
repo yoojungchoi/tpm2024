@@ -69,6 +69,15 @@ See <a href="/cfp">submission instructions</a> for details.</p>
 
 </ul>
 
+<h2>Previous Workshops</h2>
+<ul>
+  <li><a href="https://tractable-probabilistic-modeling.github.io/tpm2023/">6th Workshop on Tractable Probabilistic Modeling (2023)</a></li>
+  <li><a href="https://tractable-probabilistic-modeling.github.io/tpm2022/">5th Workshop on Tractable Probabilistic Modeling (2022)</a></li>
+  <li><a href="https://sites.google.com/view/tpm2021">4th Workshop on Tractable Probabilistic Modeling (2021)</a></li>
+  <li><a href="https://sites.google.com/view/icmltpm2019/home">3th Workshop on Tractable Probabilistic Modeling (2019)</a></li>
+  <li><a href="https://sites.google.com/site/tpm2018ws">2th Workshop on Tractable Probabilistic Modeling (2018)</a></li>
+</ul>
+
 <h2>Organizers</h2>
 
 <div class="row justify-content-center people-widget text-center">
@@ -95,7 +104,6 @@ See <a href="/cfp">submission instructions</a> for details.</p>
 {% endfor %}
 
 </ul>
-
 
 
 
