@@ -1,0 +1,16 @@
+- name: Feras Saad
+  url: https://www.cs.cmu.edu/~fsaad/
+  affiliation: Carnegie Mellon University, USA 
+  img: feras.png 
+  abstract: TBA
+  
+- name: Devendra Singh Dhami
+  url: https://sites.google.com/view/devendradhami
+  affiliation: TU Eindhoven, Netherlands
+  img: devendra.jpg 
+  abstract: TBA
+
+- name: TBA
+  url: 
+  affiliation: 
+  abstract: TBA

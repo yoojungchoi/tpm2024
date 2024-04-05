@@ -1,0 +1,32 @@
+
+baseurl: "https://tpm2024.github.io"
+color-scheme: "#1a2090" #the scheme can be any HEX code like "#334279"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+
+title: "7th Workshop on Tractable Probabilistic Modeling"
+subtitle: "-- Models We Trust --"
+conference: "[UAI 2024 Workshop](https://www.auai.org/uai2024/)"
+
+shorttitle: "TPM Workshop @ UAI 2024"
+information: "UAI 2024 Workshop on Tractable Probabilistic Modeling" 
+
+organizers: "TPM 2024 Organizers"
+
+deadlines:
+  - item: (Tentative) Submission deadline
+    date: May 15th, 2024
+  
+  - item: (Tentative) Notification of acceptance
+    date: June 18th, 2024
+
+  - item: Camera-ready deadline
+    date: TBA 
