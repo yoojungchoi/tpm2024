@@ -11,7 +11,7 @@ Content is somewhat decoupled from the HTML/layout and should be edited as follo
 * Speaker information in `_data/speakers.yml`
 * Speaker photos should go in `assets/speakers/` if available.
 * Organizer information in `_data/organizers.yml`
-* Navigation menue items (also enable/disable) in `_data/menu.yml`
+* Navigation menu items (also enable/disable) in `_data/menu.yml`
 * Main page content (as HTML) in `index.html`
 * Sub-page content (as Markdown) in `_pages/`
 
