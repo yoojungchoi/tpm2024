@@ -13,7 +13,7 @@ exclude:
   - .sass-cache
 
 title: "7th Workshop on Tractable Probabilistic Modeling"
-subtitle: "-- Models We Trust --"
+subtitle: "Models We Trust"
 conference: "[UAI 2024 Workshop](https://www.auai.org/uai2024/)"
 
 shorttitle: "TPM Workshop @ UAI 2024"
