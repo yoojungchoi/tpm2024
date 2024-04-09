@@ -70,7 +70,7 @@ Topics of interest include, but are not limited to:
 * Successful applications of TPMs to real-world problems
 
 ### Submission Instructions
-Original papers and retrospective papers are required to follow the style guidelines of UAI and should use the adjusted template [TPM format]() (**coming soon**). 
+Original papers and retrospective papers are required to follow the style guidelines of UAI and should use the adjusted template [TPM format](/assets/tpm2024-template.zip). 
 Submitted papers should be **up to 4 pages long**, excluding references. 
 Already accepted papers can be submitted in the format of the venue they have been accepted to. 
 Supplementary material can be put in the same pdf paper (after references); it is entirely up to the reviewers to decide whether they wish to consult this additional material.
@@ -80,7 +80,7 @@ Reviewing for TPM is single-blind; i.e., reviewers will know the authors’ iden
 However, we recommend that you refer to your prior work in the third person wherever possible. 
 We also encourage links to public repositories such as GitHub to share code and/or data.
 
-For any questions, please contact us at: [tmpworkshop2024@gmail.com](mailto:tmpworkshop2024@gmail.com)
+For any questions, please contact us at: [tpmworkshop2024@gmail.com](mailto:tpmworkshop2024@gmail.com)
 
 **Submission using:** [OpenReview](https://openreview.net/group?id=auai.org/UAI/2024/Workshop/TPM).
 
